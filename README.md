@@ -1,1 +1,1 @@
-# LeetCode Solution in Python/C
+# Online-Judge Solution in Python/C
